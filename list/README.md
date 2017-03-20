@@ -1,4 +1,4 @@
-##list    
+##list                                  
 ###append() -Add an element to the end of the list
 ```
 # animal list
